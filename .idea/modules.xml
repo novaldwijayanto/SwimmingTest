@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/People-Counting-in-Real-Time-master.iml" filepath="$PROJECT_DIR$/.idea/People-Counting-in-Real-Time-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Real-Time-Object-Detection-With-OpenCV-master/.idea/Real-Time-Object-Detection-With-OpenCV-master.iml" filepath="$PROJECT_DIR$/../Real-Time-Object-Detection-With-OpenCV-master/.idea/Real-Time-Object-Detection-With-OpenCV-master.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/YOLO-object-detection-with-OpenCV-master/.idea/YOLO-object-detection-with-OpenCV-master.iml" filepath="$USER_HOME$/Downloads/YOLO-object-detection-with-OpenCV-master/.idea/YOLO-object-detection-with-OpenCV-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Multi-Camera-Live-Object-Tracking-master/traffic_counting/.idea/traffic_counting.iml" filepath="$PROJECT_DIR$/../../Multi-Camera-Live-Object-Tracking-master/traffic_counting/.idea/traffic_counting.iml" />
+    </modules>
+  </component>
+</project>
